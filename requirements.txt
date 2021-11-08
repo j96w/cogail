@@ -1,0 +1,3 @@
+stable-baselines3
+pygame
+h5py
